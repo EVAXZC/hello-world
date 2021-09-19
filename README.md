@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+Eva here, I like computer science.
